@@ -1,0 +1,7 @@
+{
+    "name": "MenuSystem",
+    "version": "0.0.1",
+    "author": "Jon Black <jon_black@mm.st> Nicolas <niesteszeck@gmail.com> Guillaume S Thomas Jarosch",
+    "license": "LGPL 3",
+    "description": "MenuSystem library for SparkCore"
+}
